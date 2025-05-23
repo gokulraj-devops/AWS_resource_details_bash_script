@@ -1,0 +1,1 @@
+# AWS_resource_details_bash_script
